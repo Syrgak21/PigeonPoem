@@ -2,7 +2,7 @@ import requests
 import textwrap
 from bs4 import BeautifulSoup
 
-# Parsing quatians from website
+# Parsing quatrians from website
 
 POEM = 'https://emilysuvada.com/extras/the-pigeon-poem'
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'}
